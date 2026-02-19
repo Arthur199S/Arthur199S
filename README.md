@@ -20,6 +20,6 @@ Em desenvolvimento: comunicação e controle da ansiedade, por meio de apresenta
 
 ### 📊 Estatísticas no GitHub
 
-![GitHub Streak]([(https://streak-stats.demolab.com?user=Arthur199S&theme=dracula])
+![GitHub Streak](https://streak-stats.demolab.com?user=Arthur199S&theme=dracula)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Arthur199S&theme=dracula)
