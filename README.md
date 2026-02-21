@@ -15,7 +15,7 @@
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql" />
 </p>
 
 ---
