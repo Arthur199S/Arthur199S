@@ -1,22 +1,23 @@
-### Olá, eu sou Arthur Silva Correia (Arthur199S) 👋
+# Arthur Silva Correia
 
+Estudante de Engenharia da Computação (7º semestre) no Instituto Mauá de Tecnologia.
 
-### 🎓 Estudante de Engenharia de Computação no Instituto Mauá de Tecnologia (7º semestre)
+Foco em:
+- Back-end (Java, APIs REST, Spring)
+- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Segurança de Aplicações
+- Análise de Vulnerabilidades
 
-Tenho 21 anos e interesse em desenvolvimento de software e análise de dados, com facilidade para aprender novas tecnologias.
-Atualmente estou desenvolvendo habilidades em Java (Mauá) e Front-End (HTML, CSS e JavaScript) pela DIO.
+## Tecnologias
+Java | Spring Boot | HTML | CSS | JavaScript | Git | GitHub
 
-Busco oportunidades de estágio na área de tecnologia, onde possa aplicar e expandir meus conhecimentos técnicos.
+## Atualmente estudando
+- Segurança de aplicações web (OWASP Top 10)
+- Testes e validação de APIs
+- Boas práticas de arquitetura
 
-### 🔎 Perfil profissional
-
-Responsável e comprometido com prazos
-
-Aprendizado rápido
-
-Interesse constante por tecnologia e entretenimento digital
-
-Em desenvolvimento: comunicação e controle da ansiedade, por meio de apresentações e trabalhos em grupo
+## Objetivo
+Busco estágio em desenvolvimento ou segurança da informação.
 
 ### 📊 Estatísticas no GitHub
 
