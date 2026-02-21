@@ -15,22 +15,21 @@
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,git,github,mysql,vscode,androidstudio" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
-- OWASP Top 10
-- Segurança em APIs REST
+
 - Testes automatizados
 - Arquitetura em camadas
 
 ---
 
 ## 📂 Projetos em destaque
+
 - 🔐 Aplicações com autenticação
-- 🌐 APIs REST com integração de banco
 - 📊 Projetos acadêmicos estruturados
 
 ---
@@ -41,8 +40,9 @@ Busco oportunidade de estágio em Desenvolvimento ou Segurança da Informação.
 ---
 
 ## 📫 Contato
-- LinkedIn: https://linkedin.com/in/seu-link
-- Email: seuemail@email.com
+
+- LinkedIn: https://linkedin.com/in/arthurcorreia199
+- Email: arthursilvacorreia199@gmail.com
 
 ### 📊 Estatísticas no GitHub
 
