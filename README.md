@@ -1,23 +1,48 @@
-# Arthur Silva Correia
+<h1 align="center">Arthur Silva Correia</h1>
+<p align="center">
+  Computer Engineering Student • Backend • App Security
+</p>
 
-Estudante de Engenharia da Computação (7º semestre) no Instituto Mauá de Tecnologia.
+---
 
-Foco em:
-- Back-end (Java, APIs REST, Spring)
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Segurança de Aplicações
-- Análise de Vulnerabilidades
+## 👨‍💻 Sobre mim
+🎓 7º semestre de Engenharia da Computação – Instituto Mauá de Tecnologia  
+💻 Foco em desenvolvimento Back-end e segurança de aplicações  
+🔎 Interesse em análise de vulnerabilidades e boas práticas de arquitetura  
 
-## Tecnologias
-Java | Spring Boot | HTML | CSS | JavaScript | Git | GitHub
+---
 
-## Atualmente estudando
-- Segurança de aplicações web (OWASP Top 10)
-- Testes e validação de APIs
-- Boas práticas de arquitetura
+## 🚀 Tecnologias
 
-## Objetivo
-Busco estágio em desenvolvimento ou segurança da informação.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,mysql" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+- OWASP Top 10
+- Segurança em APIs REST
+- Testes automatizados
+- Arquitetura em camadas
+
+---
+
+## 📂 Projetos em destaque
+- 🔐 Aplicações com autenticação
+- 🌐 APIs REST com integração de banco
+- 📊 Projetos acadêmicos estruturados
+
+---
+
+## 🎯 Objetivo
+Busco oportunidade de estágio em Desenvolvimento ou Segurança da Informação.
+
+---
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-link
+- Email: seuemail@email.com
 
 ### 📊 Estatísticas no GitHub
 
