@@ -15,7 +15,7 @@
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,mysql,aws,powerbi,excel,github,vscode,androidstudio,openai" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,git,github,mysql,vscode,androidstudio" />
 </p>
 
 ---
